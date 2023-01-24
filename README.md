@@ -3,10 +3,11 @@ Repository to host all deviation analysis data visualization projects
 
 ## Housing Affordability
 
-**Background:**
+**Background**
+
 Goal: Visually display affordability gap of different cities within the United States
 
-Data Fields: 
+**Data Fields** 
 
 City/State: 100 largest cities in the US in terms of total number of households
 
